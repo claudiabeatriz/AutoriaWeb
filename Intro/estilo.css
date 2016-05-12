@@ -1,0 +1,14 @@
+body{
+	background: lightgrey;
+     color: pink; 
+     font-family: "Helvetica";
+     font-size: 18px; 
+     text-align: left; 
+     text-shadow:1px 1px 0px #fff; 
+}
+h1{
+	font-size: 36px; 
+	text-align: center;
+	text-decoration: underline;
+}
+       
